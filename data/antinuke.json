@@ -1,0 +1,12 @@
+{
+    "1487788900457119916": {
+        "enabled": false,
+        "log_channel_id": null,
+        "threshold": 3,
+        "window_seconds": 15,
+        "punishment": "timeout",
+        "timeout_minutes": 60,
+        "whitelist_users": [],
+        "whitelist_roles": []
+    }
+}

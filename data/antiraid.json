@@ -1,0 +1,30 @@
+{
+    "1487882909493886986": {
+        "enabled": false,
+        "log_channel_id": null,
+        "join_threshold": 5,
+        "join_window_seconds": 20,
+        "account_age_minutes": 30,
+        "mention_limit": 8,
+        "spam_threshold": 6,
+        "spam_window_seconds": 8,
+        "punishment": "timeout",
+        "timeout_minutes": 60,
+        "whitelist_users": [],
+        "whitelist_roles": []
+    },
+    "1487788900457119916": {
+        "enabled": false,
+        "log_channel_id": null,
+        "join_threshold": 5,
+        "join_window_seconds": 20,
+        "account_age_minutes": 30,
+        "mention_limit": 8,
+        "spam_threshold": 6,
+        "spam_window_seconds": 8,
+        "punishment": "timeout",
+        "timeout_minutes": 60,
+        "whitelist_users": [],
+        "whitelist_roles": []
+    }
+}
