@@ -14,7 +14,7 @@
 
 <p align="center">
   <b>
-⚡ PhaseBot — Advanced Discord Bot by PhaseDev ⚡
+⚡ PHOX — Advanced Discord Bot by PhaseDev ⚡
 </b>
 </p>
 
@@ -58,8 +58,8 @@ PhaseBot/
 ### 1. Clone repo
 
 ```bash
-git clone https://github.com/phasedev-oxiodev/PhaseBot.git
-cd PhaseBot
+git clone https://github.com/phasox/PHOX.git
+cd PHOX
 ```
 
 ### 2. Install requirements
