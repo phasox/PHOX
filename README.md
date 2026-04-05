@@ -19,7 +19,6 @@
 </p>
 
 ---
-## Now An Phasox Work
 
 ## 🚀 Features
 
