@@ -8,15 +8,7 @@
                                          
 ```           
 
-<p align="center">
-  <img src="" width="120" height="120" />
-</p>
-
-<p align="center">
-  <b>
-⚡ PHOX — Advanced Discord Bot by PhaseDev ⚡
-</b>
-</p>
+# ⚡ PHOX — Advanced Discord Bot by PhaseDev ⚡
 
 ---
 
